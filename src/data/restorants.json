@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Extreme Pizza",
+    "address": " Agim Ramadani",
+    "id": "1",
+    "city": "Prishtina",
+    "uri": "https://img.jakpost.net/c/2016/09/29/2016_09_29_12990_1475116504._large.jpg",
+    "foodTypes": [
+      {
+        "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg",
+        "name": "Pizza",
+        "Pizza": [
+          {
+            "id": "1",
+            "name": "Pizza Margarita",
+            "description": "tomato souce ,cheese , mozarella, olives",
+            "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Pizza Proschuito",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": 1.5,
+            "uri": "https://food-fanatic-res.cloudinary.com/iu/s--MYdKgkIw--/c_thumb,f_auto,g_auto,h_1200,q_auto,w_1200/v1467057362/prosciutto-pizza-with-strawberries-photo"
+          },
+          {
+            "id": "3",
+            "name": "Pizza Pepperon",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": 1.5,
+            "uri": "https://img-global.cpcdn.com/recipes/4901731916316672/1200x630cq70/photo.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Pizza Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna",
+            "price": 1.5,
+            "uri": "https://i.ytimg.com/vi/ByRp1JaiVYM/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg",
+        "name": "Sandwich",
+        "Sandwich": [
+          {
+            "id": "1",
+            "name": "Sandwich Doner",
+            "description": "doner mozzarella, sos",
+            "price": 1.5,
+            "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Sandwich Proschuito",
+            "description": "tomato  mozarella, proschuito",
+            "uri":"https://x5w3j9u7.stackpathcdn.com/wp-content/uploads/2019/09/vegan-grilled-cheese-sandwich-recipe-crispy-toast-spinach-tasty-720x1080.jpg"
+          
+          },
+          {
+            "id": "3",
+            "name": "Sandwich Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna",
+            "uri":"https://x5w3j9u7.stackpathcdn.com/wp-content/uploads/2019/09/vegan-grilled-cheese-sandwich-recipe-crispy-toast-spinach-tasty-720x1080.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Hamburger",
+        "Hamburger": [
+          {
+            "id": "1",
+            "name": "Classic Burger",
+            "description": "doner mozzarella, sos",
+            "price": 1.5,
+            "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Cheese Burger",
+            "description": "tomato  mozarella, proschuito",
+            "price": 1.5,
+            "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Vega Burger",
+            "description": "tomato souce ,cheese , mozarella tuna",
+            "price": 1.5,
+            "uri": "https://i.pinimg.com/originals/87/28/4a/87284abd7721c78e4a441ef88a3e355e.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Omlet",
+        "Omlet": [
+          {
+            "id": "1",
+            "name": "Omlet",
+            "description": "doner mozzarella, sos",
+            "price": 1.5,
+            "uri": "https://media-cdn.tripadvisor.com/media/photo-s/0f/65/dc/c5/omlet.jpg"
+          },
+          {
+            "id": "2",
+            "name": "Cheese with spinach",
+            "description": "tomato  mozarella, proschuito",
+            "price": 1.5,
+            "uri": "https://whatsfordinner.com/wp-content/uploads/2017/02/spinach-mushroom-omelet-recipe.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Vega Burger",
+            "description": "tomato souce ,cheese , mozarella tuna",
+            "price": 1.5,
+            "uri": "https://mambeno.co.uk/wp-content/uploads/2017/08/Omelet-med-poelse-avocado-og-feta.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aurora",
+    "address": " Agim Ramadani",
+    "id": "2",
+    "city": "Prishtina",
+    "uri": "https://lh3.googleusercontent.com/wdUvmhmr-UZy0dZ6M4Bzvz0C8EwCYlJniT3eBxauBVpV-TVFEu_1kgfag0hCFimizdg2jLm1yuqz8rJBub4GaeS9XCQ=w800",
+    "foodTypes": [
+      {
+        "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg",
+        "name": "Pizza",
+        "Pizza": [
+          {
+            "name": "Pizza Margarita",
+            "description": "tomato souce ,cheese , mozarella, olives",
+            "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg"
+          },
+          {
+            "name": "Pizza Proschuito",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": "1.5",
+            "uri": "https://food-fanatic-res.cloudinary.com/iu/s--MYdKgkIw--/c_thumb,f_auto,g_auto,h_1200,q_auto,w_1200/v1467057362/prosciutto-pizza-with-strawberries-photo"
+          },
+          {
+            "name": "Pizza Pepperon",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": "1.5",
+            "uri": "https://img-global.cpcdn.com/recipes/4901731916316672/1200x630cq70/photo.jpg"
+          },
+          {
+            "name": "Pizza Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna",
+            "price": "1.5",
+            "uri": "https://i.ytimg.com/vi/ByRp1JaiVYM/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg",
+        "name": "Sandwich",
+        "Sandwich": [
+          {
+            "name": "Sandwich Doner",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg"
+          },
+          {
+            "name": "Sandwich Proschuito",
+            "description": "tomato  mozarella, proschuito"
+          },
+          {
+            "name": "Sandwich Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Hamburger",
+        "Hamburger": [
+          {
+            "name": "Classic Burger",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg"
+          },
+          {
+            "name": "Cheese Burger",
+            "description": "tomato  mozarella, proschuito",
+            "price": "1.5",
+            "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg"
+          },
+          {
+            "name": "EggsBurger",
+            "description": "tomato souce ,cheese , mozarella tuna",
+            "price": "1.5",
+            "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg"
+
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Omlet",
+        "Omlet": [
+          {
+            "name": "Omlet",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://media-cdn.tripadvisor.com/media/photo-s/0f/65/dc/c5/omlet.jpg"
+          },
+          {
+            "name": "Cheese with spinach",
+            "description": "tomato  mozarella, proschuito",
+            "price": "1.5",
+            "uri": "https://whatsfordinner.com/wp-content/uploads/2017/02/spinach-mushroom-omelet-recipe.jpg"
+          },
+          {
+            "name": "Vega Burger",
+            "description": "tomato souce ,cheese , mozarella tuna",
+            "price": "1.5",
+            "uri": "https://mambeno.co.uk/wp-content/uploads/2017/08/Omelet-med-poelse-avocado-og-feta.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sach Pizza",
+    "address": " Agim Ramadani",
+    "id": "3",
+    "city": "Prishtina",
+    "uri": "https://b.zmtcdn.com/data/pictures/8/18981028/6ccd2ae1bd6a16d05d8a7635ef13d502.jpg",
+    "foodTypes": [
+      {
+        "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg",
+        "name": "Pizza",
+        "Pizza": [
+          {
+            "name": "Pizza Margarita",
+            "description": "tomato souce ,cheese , mozarella, olives",
+            "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg"
+          },
+          {
+            "name": "Pizza Proschuito",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": "1.5",
+            "uri": "https://food-fanatic-res.cloudinary.com/iu/s--MYdKgkIw--/c_thumb,f_auto,g_auto,h_1200,q_auto,w_1200/v1467057362/prosciutto-pizza-with-strawberries-photo"
+          },
+          {
+            "name": "Pizza Pepperon",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": "1.5",
+            "uri": "https://img-global.cpcdn.com/recipes/4901731916316672/1200x630cq70/photo.jpg"
+          },
+          {
+            "name": "Pizza Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna",
+            "price": "1.5",
+            "uri": "https://i.ytimg.com/vi/ByRp1JaiVYM/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg",
+        "name": "Sandwich",
+        "Sandwich": [
+          {
+            "name": "Sandwich Doner",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg"
+          },
+          {
+            "name": "Sandwich Proschuito",
+            "description": "tomato  mozarella, proschuito"
+          },
+          {
+            "name": "Sandwich Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Hamburger",
+        "Hamburger": [
+          {
+            "name": "Classic Burger",
+            "description": "doner mozzarella, sos",
+            "price": "1.5"
+          },
+          {
+            "name": "Cheese Burger",
+            "description": "tomato  mozarella, proschuito"
+          },
+          {
+            "name": "EggsBurger",
+            "description": "tomato souce ,cheese , mozarella tuna"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Omlet",
+        "Omlet": [
+          {
+            "name": "Omlet",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://media-cdn.tripadvisor.com/media/photo-s/0f/65/dc/c5/omlet.jpg"
+          },
+          {
+            "name": "Cheese with spinach",
+            "description": "tomato  mozarella, proschuito",
+            "price": "1.5",
+            "uri": "https://whatsfordinner.com/wp-content/uploads/2017/02/spinach-mushroom-omelet-recipe.jpg"
+          },
+          {
+            "name": "Vega Burger",
+            "description": "tomato souce ,cheese , mozarella tuna",
+            "price": "1.5",
+            "uri": "https://mambeno.co.uk/wp-content/uploads/2017/08/Omelet-med-poelse-avocado-og-feta.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papirun",
+    "address": " Agim Ramadani",
+    "id": "4",
+    "city": "Prishtina",
+    "uri": "https://www.seriouseats.com/2019/01/20190114-layered-omelet-vicky-wasik-9-1500x1125.jpg",
+    "foodTypes": [
+      {
+        "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg",
+        "name": "Pizza",
+        "Pizza": [
+          {
+            "name": "Pizza Margarita",
+            "description": "tomato souce ,cheese , mozarella, olives",
+            "uri": "https://simply-delicious-food.com/wp-content/uploads/2020/06/Grilled-Pizza-Margherita-3-500x500.jpg"
+          },
+          {
+            "name": "Pizza Proschuito",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": "1.5",
+            "uri": "https://food-fanatic-res.cloudinary.com/iu/s--MYdKgkIw--/c_thumb,f_auto,g_auto,h_1200,q_auto,w_1200/v1467057362/prosciutto-pizza-with-strawberries-photo"
+          },
+          {
+            "name": "Pizza Pepperon",
+            "description": "tomato souce ,cheese , mozarella, sousage",
+            "price": "1.5",
+            "uri": "https://img-global.cpcdn.com/recipes/4901731916316672/1200x630cq70/photo.jpg"
+          },
+          {
+            "name": "Pizza Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna",
+            "price": "1.5",
+            "uri": "https://i.ytimg.com/vi/ByRp1JaiVYM/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg",
+        "name": "Sandwich",
+        "Sandwich": [
+          {
+            "name": "Sandwich Doner",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://www.thespruceeats.com/thmb/NRuxY8YJmof92GgShYoUFouVeIo=/2105x2105/filters:fill(auto,1)/aqIMG_1498fsq-5b343910c9e77c001a218bd0.jpg"
+          },
+          {
+            "name": "Sandwich Proschuito",
+            "description": "tomato  mozarella, proschuito",
+            "uri":"https://x5w3j9u7.stackpathcdn.com/wp-content/uploads/2019/09/vegan-grilled-cheese-sandwich-recipe-crispy-toast-spinach-tasty-720x1080.jpg"
+
+          },
+          {
+            "name": "Sandwich Tuna",
+            "description": "tomato souce ,cheese , mozarella, tuna",
+            "uri":"https://x5w3j9u7.stackpathcdn.com/wp-content/uploads/2019/09/vegan-grilled-cheese-sandwich-recipe-crispy-toast-spinach-tasty-720x1080.jpg"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Hamburger",
+        "Hamburger": [
+          {
+            "name": "Classic Burger",
+            "description": "doner mozzarella, sos",
+            "price": "1.5"
+          },
+          {
+            "name": "Cheese Burger",
+            "description": "tomato  mozarella, proschuito"
+          },
+          {
+            "name": "EggsBurger",
+            "description": "tomato souce ,cheese , mozarella tuna"
+          }
+        ]
+      },
+      {
+        "uri": "https://i.pinimg.com/originals/b6/51/c4/b651c473c595f728118644568221637e.jpg",
+        "name": "Omlet",
+        "Omlet": [
+          {
+            "name": "Omlet",
+            "description": "doner mozzarella, sos",
+            "price": "1.5",
+            "uri": "https://media-cdn.tripadvisor.com/media/photo-s/0f/65/dc/c5/omlet.jpg"
+          },
+          {
+            "name": "Cheese with spinach",
+            "description": "tomato  mozarella, proschuito",
+            "price": "1.5",
+            "uri": "https://whatsfordinner.com/wp-content/uploads/2017/02/spinach-mushroom-omelet-recipe.jpg"
+          },
+          {
+            "name": "Vega Burger",
+            "description": "tomato souce ,cheese , mozarella tuna",
+            "price": "1.5",
+            "uri": "https://mambeno.co.uk/wp-content/uploads/2017/08/Omelet-med-poelse-avocado-og-feta.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
